@@ -1,0 +1,368 @@
+<!------------elite offer page---------
+<section class="offer-elite">
+    <h1><b>OFFER</b><br>of the Day</h1>
+        <div class="elite-page">
+            <div class="dayoff">
+                <img src="/images/1724844919_good_vibes_600x865.webp">      
+            </div>
+            <div class="dayoff">
+                <img src="images/1724933607_alps_goodness_600x865-1.webp">      
+            </div>
+            <div class="dayoff">
+                <img src="images/1724844920_ny_bae__600x865.webp">      
+            </div>
+            <div class="dayoff">
+                <img src="/images/1724933605_dermdoc__600x865-1.webp">      
+            </div> 
+        </div>
+        </div>
+    </section>-->
+
+    <!-------extra off page----------
+    <section class="extra -offer">
+    <div class="extraoff">
+        <img src="/images/1723017361_khadi_2596x836-1.webp">
+    </div>
+
+    </section>-->
+
+   <!----------features page-----------
+   <section class="feature-page">
+   <div class="features">
+    <h1><b>FEATURED</b><br>Elite Brands</h1>
+    <div class="create-bor">
+        <a href="#"><div class="new-feature"></a>
+        <a href="#"><img src="/images/goodvibes.gif"></a>
+        <a href="#"><img src="/images/maybeline.gif"></a>
+        <a href="#"></a><img src="/images/mamaearth.gif"></a>
+        <a href="#"></a><img src="/images/myglamm.gif"></a>
+        <a href="#"> <img src="/images/dot.gif"></a>
+        <a href="#"></a><img src="/images/wow.gif"></a>
+        <a href="#"></a><img src="/images/plom.gif"></a>
+        <a href="#"></a><img src="/images/facescanada.gif"></a>
+        <a href="#"></a><img src="/images/purple.gif"></a>
+        <a href="#"></a><img src="/images/simpled.gif"></a>
+        <a href="#"></a><img src="/images/caffeined.gif"></a>
+        <a href="#"></a><img src="/images/kamas.gif"></a>
+        <a href="#"></a><img src="/images/the face serum.jpg"></a>
+        <a href="#"></a><img src="/images/stayqu.jpg"></a>
+        <a href="#"></a><img src="/images/themoms.gif"></a>
+        <a href="#"></a><img src="/images/carm.gif"></a>
+    </div>
+    </div>
+   </section>-->
+
+   <!---------loved pages----------
+   <section class="loved-page">
+    <div class="loved">
+        <img src="/images/1650967644_most-loved-by-elite.webp">
+        <h3>WE WANT YOU TO HAVE THE BEST! </h3>
+    </div>
+    <div class="most-loved">
+        <div class="undify">
+            <img src="/images/roundlab.webp">
+             <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+             <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+             <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+             <div class="addcard">
+             <a href="#" class="add-card">Add to card</a>
+             </div> 
+             </div>
+             <div class="cosm">
+                <img src="/images/removal.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors-to">23% off</span></h4>
+                <a href="#" class="comments-add">4.3<i class='bx bx-star'></i></a>
+                <div class="addcards">
+                    <a href="#" class="add-card-ed">Add to card</a>
+                    </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/freesample.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-usage">
+                <img src="/images/ubtain.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cosm">
+                <img src="/images/detan.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/matte.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-usage">
+                <img src="/images/sugar.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="pink">
+                <img src="/images/jelly.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-usage">
+                <img src="/images/cream mask.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/new york.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cosm">
+                <img src="/images/plum green.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="pink">
+                <img src="/images/tnw.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            
+
+            <div class="cos-usage">
+                <img src="/images/pink cream.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/girl.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cosm">
+                <img src="/images/brighten.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="pink">
+                <img src="/images/velvet.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            
+
+            <div class="cos-usage">
+                <img src="/images/cetaphil.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/chemist.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cosm">
+                <img src="/images/colorbar.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="pink">
+                <img src="/images/nat-baby.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            
+
+            <div class="cos-usage">
+                <img src="/images/milky.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/pappaya.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cosm">
+                <img src="/images/dermo.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="pink">
+                <img src="/images/minimalist.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+
+            <div class="cos-usage">
+                <img src="/images/poreless.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cos-use">
+                <img src="/images/popxo.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="cosm">
+                <img src="/images/yellow.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+            <div class="pink">
+                <img src="/images/play.webp">
+                <p>Alps Goodness anti Hairfall scalp<br>serum with Fenugreek...</p>
+                <h4>Rs346<del>Rs450</del><span class="colors">23% off</span></h4>
+                <a href="#" class="comment">4.3<i class='bx bx-star'></i></a>
+                <div class="addcard">
+                <a href="#" class="add-card">Add to card</a>
+                </div>
+            </div>
+
+
+
+            
+            
+            
+            
+            
+            
+   </section>--->
+
+   <!---------help section page--------
+   <section class="help">
+    <div class="help-page">
+        <div class="payment">
+            <img src="/images/1499247950_secure-payment.webp">
+            <h3>100% Secure Payments</h3>
+            <p>All major credit & debit card accepted</p>
+        </div>
+        <div class="assistant">
+            <img src="/images/1499247975_beauty-assistant.webp">
+            <h3>Beatuy Assistant</h3>
+            <p>Tell me what you are looking for and i will work my<br>magic to help you find your perfect match.</p>
+        </div>
+        <div class="help-center">
+            <img src="/images/1499247997_help-center.webp">
+            <h3>Help Center</h3>
+            <p>Got a question? Look no further.Browse FAQs or<br>submit your query</p>
+        </div>
+    </div>
+   </section>--->
+
+   <!-----------video add page------
+<section class="video">
+    <div class="user-watch">
+    <div class="video-page">
+        <h3>Spotlight</h3>
+        <video autoplay muted loop>
+            <source src="/images/cosmetics.mp4">
+        </video>
+    </div>
+    <div class="shop-on">
+        <h3>Shop on the go</h3>
+        <img src="/images/shop ongo.webp">
+    </div>
+    </div>
+    
+</section>-->
